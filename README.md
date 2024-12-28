@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eu Te Amo</title>
+    <title>EU TE AMO, FELIZ ANIVERSÁRIO MOCRÉIA</title>
     <style>
         body {
             display: flex;
@@ -74,7 +74,7 @@
     </style>
 </head>
 <body>
-    <h1>EU TE AMO</h1>
+    <h1>EU TE AMO, FELIZ ANIVERSÁRIO MOCRÉIA!!!</h1>
     <div class="hearts"></div>
 
     <script>
@@ -95,3 +95,4 @@
     </script>
 </body>
 </html>
+
